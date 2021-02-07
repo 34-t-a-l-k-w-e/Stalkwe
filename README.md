@@ -1,7 +1,10 @@
 # Stalkwe
 
 I'm Stalkwe
-I'm a young programmer. I'm still learning. My favorite programming language is <em>Python</em>. I'm using Polybius Square to encrypt text. Also I'm bad at english.
+I'm a young programmer. I'm still learning. My favorite programming language is <strong>Python</strong>. I'm using <em>Polybius Square</em> to encrypt text. Also I'm bad at english.
+
+<!-- Decoration -->
+---
 
 Things that I know:
 <!-- Pictures ;) -->
