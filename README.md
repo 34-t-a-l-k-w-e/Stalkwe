@@ -9,5 +9,5 @@ I'm Stalkwe and I'm also a young programmer. I'm still learning. My favorite pro
 
 # Things that I know:
 <!-- Pictures ;) -->
-<img src="pictures/html.png" width = "50"> <img src="pictures/css.png" width = "50"> <img src="pictures/javascript.png" width = "50"> <ims src="pictures/python.png" width = "50"> <img src="pictures/batch.png" width = "50"> <img src="pictures/terminal.png" width = "50"> <img src="pictures/python.png" width="50"> 
+<img src="pictures/html.png" width = "50"> <img src="pictures/css.png" width = "50"> <img src="pictures/javascript.png" width = "50"> <ims src="pictures/python.png" width = "50"> <img src="pictures/batch.png" width = "50"> <img src="pictures/terminal.png" width = "50"> <img src="pictures/python.png" width="50"> <br> 
 I don't have normal sized Visual Basic Script icon :/
